@@ -15,7 +15,7 @@ This repository hosts the foundational documents for the **Intent-to-Interface (
 ### 🔹 1. Whitepaper *The Intent Web & Interface Sovereignty*
 Foundational vision and problem statement behind the I2I Protocol.
 
-👉 [Download Whitepaper](https://github.com/masdar80/i2iweb/blob/main/The%20Intent%20Web%20I2I%20Protocol%20Whitepaper_v0.1.pdf)
+👉 [Download Whitepaper](https://github.com/masdar80/i2iweb/blob/main/The%20Intent%20Web%20I2I%20Protocol%20Whitepaper_v1.0.pdf)
 
 ---
 
@@ -23,14 +23,14 @@ Foundational vision and problem statement behind the I2I Protocol.
 A detailed breakdown of the architecture, security model, schema structure,
 multi-agent system, and validation plan.
 
-👉 [Download TDS](https://github.com/masdar80/i2iweb/blob/main/The%20Intent%20Web_%20Technical%20Design%20and%20Validation%20Plan%20(TDS)%20%E2%80%93%20v0.1.pdf)
+👉 [Download TDS](https://github.com/masdar80/i2iweb/blob/main/The%20Intent%20Web_%20Technical%20Design%20and%20Validation%20Plan%20(TDS)%20%E2%80%93%20v1.0.pdf)
 
 ---
 
 ### 🔹 3. Ecosystem Model & KPI Roadmap
 KPI-driven development roadmap for the protocol and the governance-driven ecosystem model.
 
-👉 [Download Roadmap](https://github.com/masdar80/i2iweb/blob/main/The%20Intent%20Web%20Ecosystem%20Model%20and%20Roadmap%20v0.1.pdf)
+👉 [Download Roadmap](https://github.com/masdar80/i2iweb/blob/main/The%20Intent%20Web%20Ecosystem%20Model%20and%20Roadmap%20v1.0.pdf)
 
 ---
 
@@ -123,3 +123,4 @@ Feel free to open a Pull Request or submit an Issue.
 **Author:** Mashhour Darweish  
 For partnerships, collaborations, or early adopter access:  
 Email: mashhourmd@gmail.com  
+
